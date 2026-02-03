@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 ¡Hola! Soy Jorge
+Soy desarrollador especializado en Java, JavaScript y SQL, con una fuerte orientación hacia la didáctica, la claridad técnica y la creación de experiencias de aprendizaje interactivas. Me apasiona transformar conceptos complejos en ejercicios prácticos, simulaciones y materiales gamificados que ayuden a otros a aprender de forma más intuitiva y motivadora.
 
-<!--
-**Jorge-mj33/Jorge-mj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Qué me define
+- Diseño ejercicios robustos, con validación, manejo de errores y control de flujo claro.
+- Me encanta anticipar los fallos típicos de los estudiantes y convertirlos en oportunidades de aprendizaje.
+- Disfruto creando materiales que combinan técnica, creatividad y experiencia pedagógica.
+- Soy perfeccionista, curioso y siempre busco mejorar mis recursos y los de mis alumnos.
 
-Here are some ideas to get you started:
+🛠️ Tecnologías que uso
+- Backend: Java, Spring, SQL
+- Frontend: JavaScript, HTML, CSS
+- Otros: Git, GitHub, diseño de ejercicios, simulaciones, gamificación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 En qué estoy trabajando
+- Desarrollo de ejercicios y simulaciones para DAM
+- Materiales didácticos centrados en validación, excepciones y control de flujo
+- Ejemplos prácticos de POO y SQL con casos reales
+- Recursos interactivos para mejorar la experiencia del estudiante
+
+🚀 Objetivo
+Crear contenido técnico que no solo funcione, sino que enseñe, motive y deje huella.
